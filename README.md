@@ -11,7 +11,8 @@
 - 🎓 Currently pursuing a Master's in **Information Systems** at **Northeastern University**.
 - 🌟 Skilled in **ETL**, **Data Engineering**, **Machine Learning**, and **IoT-driven Solutions**.
 - 🏆 Certified **Azure Data Engineer Associate**.
-- ⚡ Fun fact: I am a **national-level football player** and a creative content creator with over 10K followers on LinkedIn.
+- ⚡ Fun Fact: **After my class hours, you’ll find me wrestling with vanishing gradients, taming activation functions, and convincing loss functions to take the hint — all in the name of 'convergence'.** 🤖📐📉
+- 🌱 What I'm Up To: Currently diving deep into MLOps to explore the building and deployement of end to end Machine Learning pipelines. 
 
 ---
 
@@ -85,7 +86,7 @@
 
 
 </p>
----
+
 
 ### 📈 **GitHub Stats**:
 <p align="center">
