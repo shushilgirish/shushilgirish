@@ -1,88 +1,117 @@
-<h1>Hi, I'm Shushil Girish! <br/><a href="https://github.com/shushilgirish">Data Engineer</a>, <a href="https://www.linkedin.com/in/shushilgirish">Cloud Analytics Professional</a>, <a href="https://github.com/shushilgirish">Tech Enthusiast</a></h1>
+<h1 align="center">Hi, I'm Shushil Girish! 👋</h1>
+<p align="center">
+  <a href="https://github.com/shushilgirish">Data Engineer</a> • 
+  <a href="https://www.linkedin.com/in/shushilgirish">Cloud Analytics Professional</a> • 
+  <a href="https://github.com/shushilgirish">Tech Enthusiast</a>
+</p>
 
-<h2>👨‍💻 Data Engineering and Machine Learning Projects:</h2>
+---
 
-- **Azure Spotify ML Pipeline and Data Warehousing**
-  - [Automated Spotify album ingestion and ML model creation](https://github.com/shushilgirish/Spotify-ML-Pipeline-with-Azure-DWH)  
-    **Key Features:**
-    - Built Random Forest models with an R² score of 0.82.
-    - Automated ETL pipelines using Databricks and Azure Data Factory.
-    - Visualized insights with SHAP values, scatter plots, and energy-tempo interaction analysis.
-    - **Tools:** Databricks, Synapse, Azure ML, Python, Kaggle API.
+### 👨‍💻 **About Me**:
+- 🎓 Currently pursuing a Master's in **Information Systems** at **Northeastern University**.
+- 🌟 Skilled in **ETL**, **Data Engineering**, **Machine Learning**, and **IoT-driven Solutions**.
+- 🏆 Certified **Azure Data Engineer Associate**.
+- ⚡ Fun fact: I am a **national-level football player** and a creative content creator with over 10K followers on LinkedIn.
 
-- **Motor Vehicles Collision Crash Analysis Report**
-  - [Multi-city crash data analysis with machine learning](https://github.com/shushilgirish/Motor-Vehicle-Collision-Crashes-Data_Analysis_Report-chicago-dallas-nyc)  
-    **Key Features:**
-    - Utilized Talend and Hive for schema recognition and data ingestion (200k+ records).
-    - Developed Power BI dashboards to highlight a 35% reduction in accidents.
-    - Implemented Random Forest and Gradient Boosting to optimize traffic resource allocation.
-    - **Tools:** Power BI, Talend, Hive, Python.
+---
 
-- **Kansas City Data Analysis Service Request**
-  - [Analysis and visualization of service request trends](https://github.com/shushilgirish/Kanasas_City_Data_Analysis_311ServiceRequests-2007-2021-)  
-    **Key Features:**
-    - Conducted exploratory data analysis (EDA) on 1.56M records.
-    - Automated ETL processes with Talend to ensure real-time analysis readiness.
-    - Visualized trends with Tableau, achieving a 25% increase in resource planning accuracy.
-    - **Tools:** Tableau, Talend, Python.
+### 🛠️ **Tech Stack**:
+1️⃣ Programming Languages
 
-<h2>🛠️ Skills and Certifications</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+</p>
 
-- **Programming Languages**: Python, SQL, Scala, Java, R, C++, Drupal.
-- **ETL Tools & Distributed Systems**: Databricks, Snowflake, ADF, Synapse, Stream Analytics, AzureML, Kafka, Spark.
-- **Databases**: PostgreSQL, Cassandra, MongoDB, Cosmos DB, DynamoDB, ArangoDB.
-- **Machine Learning Models**: Random Forest, Linear Regression, Decision Trees, Neural Networks, NLP, K-Means.
-- **Certifications**: 
-  - Azure Data Engineer and Scientist Associate (Credential ID: 773F5F1048F82EE2).
+2️⃣ ETL Tools & Distributed Systems
 
-<h2>📈 Experience & Education:</h2>
+<p align="left">
+ <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Stream%20Analytics-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Synapse-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
-- **Cognizant Technology Solutions Corporation (2021-2023)**  
-  **Data Engineer**
-  - Reduced Cosmos DB data retrieval times by 20% using Synapse Analytics integration.
-  - Developed toxicity prediction models in Azure ML, increasing accuracy by 15%.
-  - Optimized T-SQL queries to enhance database performance and ensure data integrity.
-  - Visualized evaluation metrics with Power BI and Looker Studio, improving patient outcomes by 10%.
-  - Automated real-time ingestion pipelines with Kafka and Stream Analytics for ADLS cleansing.
+</p>
 
-- **Northeastern University (Present)**  
-  **Master's of Science in Information Systems (Boston, MA)**  
-  Focus: Data Engineering, Distributed Systems, and Machine Learning.
+3️⃣ Databases
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/ArangoDB-DF573B?style=for-the-badge&logo=arangodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Cosmos%20DB-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-003545?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 
-- **Anna University, RMD Engineering College (2017-2021)**  
-  **Bachelor of Science in Electrical and Electronics Engineering**
 
-<h2>📺 Popular Technical Content</h2>
+</p>
 
-- [Azure Spotify ML Pipeline Walkthrough](https://github.com/shushilgirish/Spotify-ML-Pipeline-with-Azure-DWH)  
-- [Exploratory Analysis with Tableau and Power BI](https://github.com/shushilgirish/Kanasas_City_Data_Analysis_311ServiceRequests-2007-2021-)  
-- [Using Talend for Efficient ETL Processes](https://github.com/shushilgirish/Motor-Vehicle-Collision-Crashes-Data_Analysis_Report-chicago-dallas-nyc)
+4️⃣ Machine Learning Models
 
-<h2>✨ Fun Facts About Me</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FE7A16?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural%20Networks-E34F26?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-5E81AC?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-FFB6C1?style=for-the-badge&logo=openai&logoColor=white" />
 
-- ⚽ **National-level Football Player**: Played for [India](https://www.linkedin.com/in/shushilgirish) in multiple tournaments.  
-- 🎨 **Creative on LinkedIn**: Connect with 10,000+ followers where I share tech insights and career advice.
-- 🏆 **Runner-up at TechStars Startup Weekend Boston**: Collaborated on innovative product development.
 
-<h2> 🤳 Connect with me:</h2>
+</p>
 
-[<img align="left" alt="Shushil Girish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shushil Girish | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+5️⃣ Data Modeling
 
-[linkedin]: https://www.linkedin.com/in/shushilgirish
-[github]: https://github.com/shushilgirish
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Star%20Schema-4CAF50?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20Schema-03A9F4?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Warehousing-673AB7?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Dimensional%20Modeling-FFC107?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Profiling-607D8B?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/SCD-FF5722?style=for-the-badge&logo=data&logoColor=white" />
 
-<!--
-**shushilgirish/shushilgirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 **GitHub Stats**:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shushilgirish&label=Profile%20views&color=0e75b6&style=flat" alt="shushilgirish" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shushilgirish&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushilgirish&theme=radical" />
+</p>
+
+---
+
+### 📂 **Pinned Projects**:
+- [**Azure Spotify ML Pipeline**](https://github.com/shushilgirish/Spotify-ML-Pipeline-with-Azure-DWH)  
+  _Built scalable ETL pipelines and Random Forest models achieving an R² score of 0.82._
+- [**Motor Vehicles Crash Analysis**](https://github.com/shushilgirish/Motor-Vehicle-Collision-Crashes-Data_Analysis_Report-chicago-dallas-nyc)  
+  _Analyzed crash data using Power BI and Talend, reducing traffic incidents by 35%._
+- [**Kansas City Service Request Analysis**](https://github.com/shushilgirish/Kanasas_City_Data_Analysis_311ServiceRequests-2007-2021-)  
+  _Processed 1.56M service requests to optimize resource planning by 25%._
+
+---
+
+### 🤝 **Connect with Me**:
+<p align="left">
+  <a href="https://linkedin.com/in/shushilgirish" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shushilgirish" /></a>
+  <a href="https://github.com/shushilgirish" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="shushilgirish" /></a>
+</p>
