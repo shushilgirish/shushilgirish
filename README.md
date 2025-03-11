@@ -102,13 +102,23 @@
 ---
 
 ### 📂 **Pinned Projects**:
+
+- [**Incremental Data Pipeline using Snowflake**](https://github.com/BigDataTeam5/Incremental_DataPipleine_using_Snowflake)  
+  _Developed an efficient ETL pipeline with incremental loading capabilities, optimizing data processing time by 40%._
+
+- [**SEC Financial Data Pipeline using Snowflake & DBT**](https://github.com/shushilgirish/SEC-Financial-Data-Pipeline-using-Snowflake-DBT)  
+  _Engineered a robust financial data pipeline extracting SEC filings with Snowflake and DBT, enabling real-time analytics._
+
+- [**BigData Process and MarkDown Viewer**](https://github.com/shushilgirish/BigData_DataProcess_andMarkDownViewer)  
+  _Created a scalable data processing framework with interactive markdown visualization features for large datasets._
+
+
 - [**Azure Spotify ML Pipeline**](https://github.com/shushilgirish/Spotify-ML-Pipeline-with-Azure-DWH)  
   _Built scalable ETL pipelines and Random Forest models achieving an R² score of 0.82._
 - [**Motor Vehicles Crash Analysis**](https://github.com/shushilgirish/Motor-Vehicle-Collision-Crashes-Data_Analysis_Report-chicago-dallas-nyc)  
   _Analyzed crash data using Power BI and Talend, reducing traffic incidents by 35%._
 - [**Kansas City Service Request Analysis**](https://github.com/shushilgirish/Kanasas_City_Data_Analysis_311ServiceRequests-2007-2021-)  
   _Processed 1.56M service requests to optimize resource planning by 25%._
-
 ---
 
 ### 🤝 **Connect with Me**:
