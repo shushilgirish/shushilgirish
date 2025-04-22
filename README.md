@@ -100,19 +100,35 @@
 </p>
 
 ---
+Here’s a list of repositories from the BigDataTeam5 organization that can be included in your GitHub profile's README:
 
-### 📂 **Pinned Projects**:
+### 📂 **BigDataTeam5 Projects**:
 
-- [**Incremental Data Pipeline using Snowflake**](https://github.com/BigDataTeam5/Incremental_DataPipleine_using_Snowflake)  
-  _Developed an efficient ETL pipeline with incremental loading capabilities, optimizing data processing time by 40%._
+- [**master-financial-database**](https://github.com/BigDataTeam5/master-financial-database)  
+  _Repository for managing financial data with Python._
 
-- [**SEC Financial Data Pipeline using Snowflake & DBT**](https://github.com/shushilgirish/SEC-Financial-Data-Pipeline-using-Snowflake-DBT)  
-  _Engineered a robust financial data pipeline extracting SEC filings with Snowflake and DBT, enabling real-time analytics._
+- [**AI-Info-Extractor_Markdown_Viewer**](https://github.com/BigDataTeam5/AI-Info-Extractor_Markdown_Viewer)  
+  _Forked project for extracting and visualizing AI-related information using markdown._
 
-- [**BigData Process and MarkDown Viewer**](https://github.com/shushilgirish/BigData_DataProcess_andMarkDownViewer)  
-  _Created a scalable data processing framework with interactive markdown visualization features for large datasets._
+- [**Incremental DataPipeline using Snowflake**](https://github.com/BigDataTeam5/Incremental_DataPipeline_using_Snowflake)  
+  _Developed an efficient ETL pipeline with incremental loading capabilities using Snowflake._
 
+- [**LiteLLM SummaryGenerator with Q&A**](https://github.com/BigDataTeam5/LiteLLM_SummaryGenerator_with_Q-A)  
+  _Python-based project for summarization and question answering with LiteLLM._
 
+- [**Building a RAG Pipeline with Airflow**](https://github.com/BigDataTeam5/Building-a-RAG-Pipeline-with-Airflow)  
+  _Implemented RAG concepts to reduce input tokens in a language model pipeline._
+
+- [**Nvidia-Agentic-Architecture-Workflow**](https://github.com/BigDataTeam5/Nvidia-Agentic-Architecture-Worflow)  
+  _Built workflows to integrate agentic architectures with FastAPI and Streamlit._
+
+- [**Multi-Agentic Hackathon Project**](https://github.com/BigDataTeam5/Mulit-Agentic-Hackthon-Project)  
+  _A multi-agent system for crime analysis reports hosted on Streamlit._
+
+- [**MarketScope AI-Powered Industry Segment Intelligence Platform**](https://github.com/BigDataTeam5/MarketScope-AI-Powered-Industry-Segment-Intelligence-Platform)  
+  _A multifaceted application for healthcare vendors utilizing LangGraph and Airflow._
+
+### 📂 **Other Data Engineering Projects**:
 - [**Azure Spotify ML Pipeline**](https://github.com/shushilgirish/Spotify-ML-Pipeline-with-Azure-DWH)  
   _Built scalable ETL pipelines and Random Forest models achieving an R² score of 0.82._
 - [**Motor Vehicles Crash Analysis**](https://github.com/shushilgirish/Motor-Vehicle-Collision-Crashes-Data_Analysis_Report-chicago-dallas-nyc)  
