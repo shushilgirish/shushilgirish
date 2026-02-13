@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 **About Me**:
-- 🎓 Currently pursuing a Master's in **Information Systems** at **Northeastern University**.
-- 🌟 Skilled in **ETL**, **Data Engineering**, **Machine Learning**, and **IoT-driven Solutions**.
-- 🏆 Certified **Azure Data Engineer Associate**.
-- ⚡ Fun Fact: **After my class hours, you’ll find me wrestling with vanishing gradients, taming activation functions, and convincing loss functions to take the hint — all in the name of 'convergence'.** 🤖📐📉
-- 🌱 What I'm Up To: Currently diving deep into MLOps to explore the building and deployement of end to end Machine Learning pipelines. 
+- 🎓 Graduated  **CS Major** at **Northeastern University**.
+- 🌟 Skilled in **Building scalable pipelines**,**Parallelizing DL models using HPC**,**Agentic Applications**,etc.
+- 🏆 Certified **AWS & Azure Data Engineer Associate**.
+- ⚡ Fun Fact: **I hit gym and cook to wind down** 
+- 🌱 What I'm Up To: Currently exploring programming patterns and language agnostic solutions 
 
 ---
 
@@ -101,6 +101,10 @@
 
 ---
 Here’s a list of repositories from the BigDataTeam5 organization that can be included in your GitHub profile's README:
+
+### **Latest Project**:
+- [**Multiclassification-Off-road-terrain-using-Parallelization-Techniques**](https://github.com/shushilgirish/Multiclassification-Off-road-terrain-using-Parallelization-Techniques)
+  Predicting smoothness of terrains with Images and Sensor readings using MLP and HPC clusters
 
 ### 📂 **BigDataTeam5 Projects**:
 
